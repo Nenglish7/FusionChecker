@@ -13,6 +13,6 @@
 /**
  * EmptyValueException.
  */
-class EmptyValueException extends \InvalidArgumentException implements ExceptionInterface
+class EmptyValueException extends InvalidArgumentException implements ExceptionInterface
 {
 }
