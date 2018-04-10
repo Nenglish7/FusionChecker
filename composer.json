@@ -27,7 +27,7 @@
     },
     "suggest": {
         "roave/security-advisories": "This package ensures that your application doesn't have installed dependencies with known security vulnerabilities."
-    }
+    },
     "require-dev": {
         "phpunit/phpunit": "^7",
         "vimeo/psalm": "^1"
